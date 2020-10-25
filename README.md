@@ -10,6 +10,8 @@ the original game was adopted from Javier Lopez
 http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/  
 
 # TetrisGame
+To only download the game please get it [here](https://github.com/Noath2302/TetrisGame/blob/master/tetris.zip) 
+
 - Tetris classic game using SDL2 and C++
 
 Menu state:  
